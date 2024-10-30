@@ -1,0 +1,10 @@
+.fv-like-holder {
+    background: bottom;
+    display: inline-block;
+    padding: 0px;
+}
+
+div.fv-like-holder .like {
+    background: 50% top;
+    padding: 0px;
+}
